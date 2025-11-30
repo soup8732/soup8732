@@ -99,7 +99,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" width="30px"/>
+  
   <strong>Thanks for visiting! Feel free to reach out for collaboration opportunities!</strong>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" width="30px"/>
+
 </div>
