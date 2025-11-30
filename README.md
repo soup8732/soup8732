@@ -88,13 +88,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soup8732&show_icons=true&locale=en&layout=compact&theme=radical" alt="soup8732" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soup8732&show_icons=true&locale=en&theme=radical" alt="soup8732" />
-</p>
 
 <br/>
 
