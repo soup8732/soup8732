@@ -1,10 +1,16 @@
-# 🚀 GitHub Metrics Setup Guide
+# 🚀 Optional: Advanced GitHub Metrics Setup Guide
 
-Your README now includes advanced GitHub metrics and the snake contribution animation! Follow these steps to activate them:
+## ⚠️ Important Note
 
-## ⚠️ Why Some Items Aren't Showing Yet
+**Your README is fully functional without this setup!** This guide is for **optional advanced features** like:
+- Snake contribution animation
+- GitHub Achievements badges
+- 3D Isometric calendar
+- In-depth language analytics
+- GitHub Skyline visualization
+- Terminal-style portfolio
 
-The metrics and snake animation require GitHub Actions workflows to generate the SVG files. Until you complete the setup steps below and run the workflows, these sections will show broken image links. This is normal!
+**You do NOT need to set this up** unless you want these extra visual features. Your current README already looks great and displays all standard GitHub stats.
 
 ## Step 1: Create a GitHub Personal Access Token
 
