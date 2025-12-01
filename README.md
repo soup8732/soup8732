@@ -129,6 +129,7 @@
   <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soup8732&theme=tokyonight" alt="Contribution Graph" />
 </p>
 
+
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="35px" /> Advanced Metrics & Insights
@@ -188,4 +189,7 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  
+  <strong>Thanks for visiting! Feel free to reach out for collaboration opportunities!</strong>
+
 </div>
