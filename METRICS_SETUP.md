@@ -1,6 +1,10 @@
 # 🚀 GitHub Metrics Setup Guide
 
-Your README now includes advanced GitHub metrics! Follow these steps to activate them:
+Your README now includes advanced GitHub metrics and the snake contribution animation! Follow these steps to activate them:
+
+## ⚠️ Why Some Items Aren't Showing Yet
+
+The metrics and snake animation require GitHub Actions workflows to generate the SVG files. Until you complete the setup steps below and run the workflows, these sections will show broken image links. This is normal!
 
 ## Step 1: Create a GitHub Personal Access Token
 
@@ -24,27 +28,43 @@ Your README now includes advanced GitHub metrics! Follow these steps to activate
 5. Value: Paste your token from Step 1
 6. Click **Add secret**
 
-## Step 3: Trigger the Workflow
+## Step 3: Enable GitHub Actions
 
-After pushing your changes:
+1. Go to your repository: https://github.com/soup8732/soup8732
+2. Click **Settings** → **Actions** → **General**
+3. Under "Workflow permissions", select **Read and write permissions**
+4. Click **Save**
+
+## Step 4: Trigger the Workflows
+
+After merging your PR to main:
 
 1. Go to **Actions** tab in your repository
-2. Click on **Metrics** workflow
-3. Click **Run workflow** → **Run workflow**
-4. Wait 2-3 minutes for all metrics to generate
+2. You'll see two workflows:
+   - **Generate Snake Animation** - Creates the contribution snake
+   - **Metrics** - Creates all the advanced metrics
 
-## Step 4: Verify
+3. Run both workflows:
+   - Click on each workflow name
+   - Click **Run workflow** → **Run workflow**
+   - Wait 2-3 minutes for generation to complete
 
-Once the workflow completes:
+The snake animation will appear first (fastest), then the metrics will populate.
+
+## Step 5: Verify
+
+Once the workflows complete:
 - Check your repository for new `.svg` files (metrics.plugin.*.svg)
 - Your README will automatically display the beautiful metrics!
 
 ## Automatic Updates
 
-The metrics will automatically update:
-- ⏰ Daily at midnight UTC
+Both the snake animation and metrics will automatically update:
+- ⏰ Daily (snake every 24 hours, metrics at midnight UTC)
 - 🔄 Every time you push to main/master branch
-- 🎯 Manually via Actions tab
+- 🎯 Manually via Actions tab anytime
+
+**Note:** The snake animation uses the default GitHub token (no setup needed). The advanced metrics require the METRICS_TOKEN.
 
 ## Troubleshooting
 
