@@ -131,6 +131,32 @@
 
 ---
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="35px" /> Advanced Metrics & Insights
+
+<div align="center">
+
+### 🏆 GitHub Achievements
+<img src="https://raw.githubusercontent.com/soup8732/soup8732/main/metrics.plugin.achievements.svg" alt="GitHub Achievements" />
+
+### 📅 Isometric Contribution Calendar
+<img src="https://raw.githubusercontent.com/soup8732/soup8732/main/metrics.plugin.isocalendar.svg" alt="Isometric Calendar" />
+
+### 💻 Language Analytics
+<img src="https://raw.githubusercontent.com/soup8732/soup8732/main/metrics.plugin.languages.svg" alt="Languages Activity" />
+
+### ⭐ Recently Starred Repositories
+<img src="https://raw.githubusercontent.com/soup8732/soup8732/main/metrics.plugin.stars.svg" alt="Recently Starred" />
+
+### 🏙️ GitHub Skyline (3D Contribution View)
+<img src="https://raw.githubusercontent.com/soup8732/soup8732/main/metrics.plugin.skyline.svg" alt="GitHub Skyline" />
+
+### 💼 Terminal Portfolio
+<img src="https://raw.githubusercontent.com/soup8732/soup8732/main/metrics.terminal.svg" alt="Terminal Style" />
+
+</div>
+
+---
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="35px" /> Connect With Me
 
 <div align="center">
