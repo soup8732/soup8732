@@ -33,16 +33,6 @@
 
 ---
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soup8732/soup8732/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soup8732/soup8732/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/soup8732/soup8732/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35px" /> Tech Stack
 
 <details open>
@@ -157,31 +147,13 @@
   </picture>
 </p>
 
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="35px" /> Advanced Metrics & Insights
+<br/>
 
 <div align="center">
-
-### 🏆 GitHub Achievements
-<img src="https://raw.githubusercontent.com/soup8732/soup8732/main/metrics.plugin.achievements.svg" alt="GitHub Achievements" />
-
-### 📅 Isometric Contribution Calendar
-<img src="https://raw.githubusercontent.com/soup8732/soup8732/main/metrics.plugin.isocalendar.svg" alt="Isometric Calendar" />
-
-### 💻 Language Analytics
-<img src="https://raw.githubusercontent.com/soup8732/soup8732/main/metrics.plugin.languages.svg" alt="Languages Activity" />
-
-### ⭐ Recently Starred Repositories
-<img src="https://raw.githubusercontent.com/soup8732/soup8732/main/metrics.plugin.stars.svg" alt="Recently Starred" />
-
-### 🏙️ GitHub Skyline (3D Contribution View)
-<img src="https://raw.githubusercontent.com/soup8732/soup8732/main/metrics.plugin.skyline.svg" alt="GitHub Skyline" />
-
-### 💼 Terminal Portfolio
-<img src="https://raw.githubusercontent.com/soup8732/soup8732/main/metrics.terminal.svg" alt="Terminal Style" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=soup8732&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=soup8732&theme=github-compact&hide_border=true" alt="Contribution Activity Graph" />
+  </picture>
 </div>
 
 ---
