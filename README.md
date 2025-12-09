@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Suhaib%20Rashid!&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Suhaib%20Rashid!&fontSize=42&fontAlignY=35&animation=fadeIn" alt="Header"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3BEFF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=MIS+Graduate+from+UT+Austin+%F0%9F%A4%98;Building+AI-powered+solutions;for+real-world+impact+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3BEFF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=MIS+Graduate+from+Howard+University;Data+Analytics+%26+AI+Enthusiast;Full+Stack+Developer" alt="Typing SVG"/>
 </div>
 
 <p align="center">
@@ -17,15 +17,15 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="35px" /> About Me
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="20px" /> Recent Graduate in **Management Information Systems** from The University of Texas at Austin
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="20px" /> Recent Graduate in **Management Information Systems** from **Howard University**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="20px" /> Passionate about **AI, data analytics, and product development**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="20px" /> Passionate about **AI, data analytics, and building intelligent solutions**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart Emoji" width="20px" /> Specializing in **SQL, Tableau, Python, and AI-powered tools**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart Emoji" width="20px" /> Specializing in **SQL, Tableau, Python, and business intelligence**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake Emoji" width="20px" /> Looking to collaborate on **AI, data, and product-focused projects**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake Emoji" width="20px" /> Looking to collaborate on **Data Analytics, AI projects, and Full Stack Development**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning Emoji" width="20px" /> Always learning and exploring **new technologies**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning Emoji" width="20px" /> Always learning and exploring new technologies
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="20px" /> Reach me: **[suhaibrashid@gmail.com](mailto:suhaibrashid@gmail.com)**
 
@@ -116,12 +116,12 @@
 <br/>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=soup8732&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=soup8732&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
   <img width="48%" src="https://streak-stats.demolab.com?user=soup8732&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soup8732&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soup8732&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soup8732&theme=tokyonight&utcOffset=8" alt="Productive Time" />
 </p>
 
@@ -154,6 +154,9 @@
 ### 💼 Terminal Portfolio
 <img src="https://raw.githubusercontent.com/soup8732/soup8732/main/metrics.terminal.svg" alt="Terminal Style" />
 
+### 📊 Top Repositories
+<img src="https://raw.githubusercontent.com/soup8732/soup8732/main/metrics.plugin.repositories.svg" alt="Top Repositories" />
+
 </div>
 
 ---
@@ -167,16 +170,6 @@
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhaibrashid@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://suhaib-rashid-portfolio.vercel.app/)
 
-</div>
-
----
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soup8732/soup8732/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soup8732/soup8732/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/soup8732/soup8732/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 ---
