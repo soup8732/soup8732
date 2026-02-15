@@ -53,8 +53,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suhaib-rashid-65656a188)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Ask%20Me-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25810162)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhaibrashid@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://suhaib-rashid-portfolio.vercel.app/)
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35px" alt="Handshake"/>
 
 </div>
