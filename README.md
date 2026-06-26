@@ -28,9 +28,6 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="25px" align="center" /> Explore My Work: <a href="https://suhaib-rashid-portfolio.vercel.app/" target="_blank"><strong>Portfolio</strong></a>
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email" width="25px" align="center" /> Contact me: <a href="mailto:suhaibrashid@gmail.com"><strong>suhaibrashid@gmail.com</strong></a>
-  </li>
-  <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning" width="25px" align="center" /> Always exploring <strong>new technologies</strong> to stay ahead
   </li>
 </ul>
